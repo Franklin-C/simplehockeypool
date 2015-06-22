@@ -224,7 +224,3 @@ echo "</table></div>";
 	<a style="color: #000;" href="https://plus.google.com/+FranklinC/posts/16tvZhYdGkD">Discussion Post</a> - 
 	<a style="color: #000;" href="http://franklinc.ca/stuff/Pool/index.php?page=rules">Rules, General Info, Prizes</a>
 </div>
- 
- 
- 
- 
